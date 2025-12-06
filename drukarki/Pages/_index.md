@@ -24,3 +24,24 @@
 
 # Quiz Wiedzy
 
+
+# Lekcja
+
+## Moduł
+
+### Grupa details summary
+
+- lekcja do powyższej grupy details sumary
+
+- lekcja do powyższej grupy details sumary
+- lekcja do powyższej grupy details sumary
+
+### Nowa grupa details summary
+- lekcja do powyższej grupy details sumary
+
+## Kolejny moduł
+
+# kolejna lekcja
+
+# kolejna lekcja
+
