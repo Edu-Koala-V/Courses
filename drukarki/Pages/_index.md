@@ -33,8 +33,8 @@
 
 - lekcja 1 do powyższej grupy details sumary
 
-- lekcja 1 do powyższej grupy details sumary
-- lekcja 1 do powyższej grupy details sumary
+- lekcja 2 do powyższej grupy details sumary
+- lekcja 3 do powyższej grupy details sumary
 
 ### Nowa grupa details summary
 - lekcja A do powyższej grupy details sumary
@@ -44,5 +44,6 @@
 # kolejna lekcja
 
 # kolejna lekcja
+
 
 
