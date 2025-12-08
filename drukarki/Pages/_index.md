@@ -2,7 +2,7 @@
 
 # Zestawienie definicji
 
-#### Moduł 0: Drukarki
+## Moduł 0: Drukarki
 
 # 0.1 Drukarka atramentowa
 
@@ -14,13 +14,13 @@
 
 # 0.5 Drukarka 3D
 
-#### Moduł 1: Skanery
+## Moduł 1: Skanery
 
 # 1.1 Skaner płaski
 
 # 1.2 Skaner 3D
 
-#### Podsumowanie
+## Podsumowanie
 
 # Quiz Wiedzy
 
@@ -44,6 +44,7 @@
 # kolejna lekcja
 
 # kolejna lekcja
+
 
 
 
