@@ -1,6 +1,6 @@
 # Kurs Windows 11 - Wprowadzenie
 
-#### Moduł 0: Instalacja i ustawienia systemu
+## Moduł 0: Instalacja i ustawienia systemu
 
 # 0.1 Przygotowanie ISO Windows 11
 
@@ -8,7 +8,7 @@
 
 # 0.3 Omówienie środowiska graficznego i personalizacja
 
-#### Moduł 1: Podstawowe narzędzia
+## Moduł 1: Podstawowe narzędzia
 
 # 1.1 Eksplorator plików
 
@@ -18,7 +18,7 @@
 
 # 1.4 Panel sterowania
 
-#### Moduł 2: Przystawki systemu Windows
+## Moduł 2: Przystawki systemu Windows
 
 # 2.1 Wprowadzenie do przystawek i konsoli MMC
 
@@ -44,13 +44,13 @@
 
 # 2.12 Edytor lokalnych zasad grupy - gpedit.msc
 
-#### Moduł 3: Narzędzia zaawansowane systemu Windows
+## Moduł 3: Narzędzia zaawansowane systemu Windows
 
 # 3.1 Konfiguracja systemu - msconfig.exe
 
 # 3.2 Edytor rejestru - regedit.exe
 
-#### Moduł 4: Wiersz polecenia (CMD)
+## Moduł 4: Wiersz polecenia (CMD)
 
 # 4.1 Wprowadzenie do CMD
 
@@ -64,7 +64,7 @@
 
 # 4.6 Diagnostyka sieci
 
-#### Moduł 5: Skrypty BATCH
+## Moduł 5: Skrypty BATCH
 
 # 5.1 Wprowadzenie do skryptów BATCH
 
@@ -78,7 +78,7 @@
 
 # 5.6 Działania na plikach
 
-#### Moduł 6: PowerShell
+## Moduł 6: PowerShell
 
 # 6.1 Wprowadzenie do powershell
 
@@ -100,23 +100,18 @@
 
 # 6.10 Kolekcje danych
 
-<details>
-<summary>
+### 6.11 Automatyzacja zadań
 
-# 6.11 Automatyzacja zadań
+- 6.11.1 Usuwanie plików z logowaniem
 
-</summary>
+- 6.11.2 Zarządzanie wieloma folderami
 
-# 6.11.1 Usuwanie plików z logowaniem
+- 6.11.3 Raportowanie zwolnionej przestrzeni
 
-# 6.11.2 Zarządzanie wieloma folderami
+- 6.11.4 Automatyzacja z Harmonogramem Zadań
 
-# 6.11.3 Raportowanie zwolnionej przestrzeni
 
-# 6.11.4 Automatyzacja z Harmonogramem Zadań
 
-</details>
-
-#### Podsumowanie
+## Podsumowanie
 
 # Quiz Wiedzy
