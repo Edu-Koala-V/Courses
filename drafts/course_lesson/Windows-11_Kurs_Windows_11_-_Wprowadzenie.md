@@ -1,4 +1,4 @@
-# Kurs Windows 11 - Wprowadzenie XD Diała
+# Kurs Windows 11 - Wprowadzenie XD Działa
 
 Witajcie w Kursie Windows 11, stworzonym specjalnie dla uczniów technikum informatycznego oraz wszystkich, którzy chcą efektywnie opanować najnowszą odsłonę systemu operacyjnego Microsoftu! Ten kompleksowy kurs ma na celu zapewnienie Ci fundamentalnej wiedzy i praktycznych umiejętności poprawiających efektywność pracy z systemem.  
 
