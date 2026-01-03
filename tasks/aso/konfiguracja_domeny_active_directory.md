@@ -1,4 +1,4 @@
-# Windows Serwer - Konfiguracja DHCP i rezerwacja adresów xD
+# Windows Serwer - Konfiguracja DHCP i rezerwacja adresów Elo
 
 ## Wymagania wstępne
 
