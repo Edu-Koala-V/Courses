@@ -1,4 +1,4 @@
-# Windows Serwer - Konfiguracja DHCP i rezerwacja adresów Elo 1230
+# Windows Serwer - Konfiguracja DHCP i rezerwacja adresów
 
 ## Wymagania wstępne
 
