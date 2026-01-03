@@ -1,5 +1,5 @@
 # Windows Serwer - Konfiguracja DHCP i rezerwacja adresów xD
-
+dfsd
 ## Wymagania wstępne
 
 - Maszyna virtualna z systemem _**Windows Server 2025**_.
