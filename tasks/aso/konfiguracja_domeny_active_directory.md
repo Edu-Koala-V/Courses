@@ -1,4 +1,4 @@
-# Windows Serwer - Konfiguracja DHCP i rezerwacja adresów Super Zadanie
+# Windows Serwer - Konfiguracja DHCP i rezerwacja adresów xD
 
 ## Wymagania wstępne
 
