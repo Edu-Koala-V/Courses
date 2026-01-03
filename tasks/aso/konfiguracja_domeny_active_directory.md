@@ -1,4 +1,4 @@
-# Windows Serwer - Konfiguracja DHCP i rezerwacja adresów
+# Windows Serwer - Konfiguracja DHCP i rezerwacja adresów xD
 
 ## Wymagania wstępne
 
