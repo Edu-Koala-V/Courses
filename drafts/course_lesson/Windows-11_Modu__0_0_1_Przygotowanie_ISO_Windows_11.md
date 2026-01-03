@@ -1,4 +1,4 @@
-# 0.1 Przygotowanie ISO Windows 11 xD
+# 0.1 Przygotowanie ISO Windows 11
 
 _**Windows 11**_ to w roku $$2025$$ najnowsza edycja systemu z rodziny **_Microsoft Windows_**. Porzuciła ona $$32$$-bitową architekturę procesorów i wprowadziła wymóg posiadania modułu kryptograficznego procesora w wersji **_TPM $$2.0$$_** oraz konieczność korzystania z trybu bezpiecznego rozruchu **UEFI**.  
 
