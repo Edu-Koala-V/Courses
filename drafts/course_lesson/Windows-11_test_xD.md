@@ -7,16 +7,11 @@
 
 
 
-![s12.gif](/public/temp/uploads/flshootfespo4og4tm0brb1m3f/img_696fbc6f2a71c.webp)
 
-
-![s12.gif](/public/temp/uploads/flshootfespo4og4tm0brb1m3f/img_696fc229a3cb1.gif)
-
-![s8.gif](/public/temp/uploads/flshootfespo4og4tm0brb1m3f/img_696fc249b4399.gif)
 
 
 
 
 Telemetria start
 
-test
+test![s8.gif](/public/temp/uploads/flshootfespo4og4tm0brb1m3f/img_696fcebd934d3.gif)
