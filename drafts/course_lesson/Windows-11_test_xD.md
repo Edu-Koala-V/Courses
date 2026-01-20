@@ -3,4 +3,4 @@
 ![K_ON_Movie_BD_DVD_Combo_cover_medium.png](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/img_696fb959d3f44.webp)
 
 
-![AAAABQgpd578fJJhbJZ7CAFZcgCStX65TgzWTrLFYsE4m4AaRCtp9iDz3uz0DFL92p0lhbiR35kLNwH3_hS2-a9ZndSaqkK98zY20zAR.jpg](/public/temp/uploads/flshootfespo4og4tm0brb1m3f/img_696fb9d7329a0.webp)
+![ZABLOKOWANO – ODZRUCENIE PRZEZ MODERACJĘ](https://placehold.co/600x400?text=Zablokowano+zewnetrzny+obrazek&bg=RED&color=white)
