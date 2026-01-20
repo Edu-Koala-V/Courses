@@ -1,10 +1,7 @@
 # Ala ma kota a kot ma 
 
+![wp14081352-1691317477.jpg](/public/temp/uploads/emngn4mvf9nofvioa1fm6rtsa2/img_696ffeac5edf5.webp)
 
-
-![28927eb1-8765-4f7b-8b98-bbfae2480590.jpg](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/img_696fe445b5691.webp)
-Telemetria start
-
-![ZABLOKOWANO – ZEWNĘTRZNY OBRAZEK](https://placehold.co/600x400?text=Zablokowano+zewnetrzny+obrazek)
+![2.png](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/img_696ff6a1722d3.webp)
 
 ![ZABLOKOWANO – ZEWNĘTRZNY OBRAZEK](https://placehold.co/600x400?text=Zablokowano+zewnetrzny+obrazek)
