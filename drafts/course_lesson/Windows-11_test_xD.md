@@ -12,10 +12,3 @@
 ![28927eb1-8765-4f7b-8b98-bbfae2480590.jpg](/temp/uploads/flshootfespo4og4tm0brb1m3f/img_696f924511e8a.webp)
 
 
-
-
-
-
-
-
-
