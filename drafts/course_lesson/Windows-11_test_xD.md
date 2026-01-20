@@ -2,4 +2,3 @@
 
 Telemetria start
 
-ku źwa
