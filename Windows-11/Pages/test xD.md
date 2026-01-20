@@ -1,9 +1,11 @@
 # Ala ma kota a kot ma 
 
-![SFW](https://i.postimg.cc/3xG4Mm98/1.png)
+![ZABLOKOWANO – ZEWNĘTRZNY OBRAZEK](https://placehold.co/600x400?text=Zablokowano+zewnetrzny+obrazek)
 
 
-![NSFW](https://i.postimg.cc/5tmN5wG4/21.jpg)
+![ZABLOKOWANO – ZEWNĘTRZNY OBRAZEK](https://placehold.co/600x400?text=Zablokowano+zewnetrzny+obrazek)
 
 😈
 🤫
+😅
+
