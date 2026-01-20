@@ -2,4 +2,4 @@
 
 Telemetria start
 
-āÂɓæ
+āÂɓæě
