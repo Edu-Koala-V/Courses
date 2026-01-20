@@ -12,7 +12,7 @@
 
 ![ZABLOKOWANO – ODZRUCENIE PRZEZ MODERACJĘ](https://placehold.co/600x400?text=Zablokowano+zewnetrzny+obrazek&bg=RED&color=white)
 
-![s8.gif](/public/temp/uploads/flshootfespo4og4tm0brb1m3f/img_696fc249b4399.gif)
+![ZABLOKOWANO – ODZRUCENIE PRZEZ MODERACJĘ](https://placehold.co/600x400?text=Zablokowano+zewnetrzny+obrazek&bg=RED&color=white)
 
 test kurwa test co do kurwy kuźwa holy shit what the duck fck kurestwo
 Jebaniutki zjeb nigger cwel ciota 
