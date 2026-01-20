@@ -1,7 +1,7 @@
 # Ala ma kota a kot ma 
 
 
-![dan-da-dan-anime.jpg](/public/temp/uploads/flshootfespo4og4tm0brb1m3f/img_696fb7c34e8d3.webp)
+![ZABLOKOWANO – ODZRUCENIE PRZEZ MODERACJĘ](https://placehold.co/600x400?text=Zablokowano+zewnetrzny+obrazek&bg=RED&color=white)
 
 ---
 
