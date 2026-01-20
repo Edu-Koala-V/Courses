@@ -5,4 +5,4 @@
 
 ok
 
-![One_Piece_Anime_Logo.webp](/public/temp/uploads/flshootfespo4og4tm0brb1m3f/img_696fb4857d3fc.webp)
+![One_Piece_Anime_Logo.webp](![ZABLOKOWANO – ODZRUCENIE PRZEZ MODERACJĘ](https://placehold.co/600x400?text=Zablokowano+zewnetrzny+obrazek&bg=RED&color=white))
