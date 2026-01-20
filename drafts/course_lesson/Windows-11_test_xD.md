@@ -5,4 +5,4 @@
 
 ---
 
-![anime-eyes-closeup-boy-260nw-2490556117.jpg](/public/temp/uploads/flshootfespo4og4tm0brb1m3f/img_696fb7cdae5d1.webp)
+![anime-eyes-closeup-boy-260nw-2490556117.jpg](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/img_696fb7cdae5d1.webp)
