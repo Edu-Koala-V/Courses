@@ -15,7 +15,6 @@
 ![s8.gif](/public/temp/uploads/flshootfespo4og4tm0brb1m3f/img_696fc249b4399.gif)
 
 
-kuźwa
 
 
 Telemetria start
