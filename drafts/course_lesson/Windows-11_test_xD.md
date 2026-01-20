@@ -14,7 +14,8 @@
 
 ![s8.gif](/public/temp/uploads/flshootfespo4og4tm0brb1m3f/img_696fc249b4399.gif)
 
-kurwy kuźwa zjeb nigger cwel ciota 
+  cfel  
+
 
 Telemetria start
 
