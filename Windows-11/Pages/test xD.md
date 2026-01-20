@@ -5,3 +5,16 @@
 
 ![ZABLOKOWANO – ZEWNĘTRZNY OBRAZEK](https://placehold.co/600x400?text=Zablokowano+zewnetrzny+obrazek)
 
+
+
+![s12.gif](/public/temp/uploads/flshootfespo4og4tm0brb1m3f/img_696fbc6f2a71c.webp)
+
+
+![s12.gif](/public/temp/uploads/flshootfespo4og4tm0brb1m3f/img_696fc229a3cb1.gif)
+
+![s8.gif](/public/temp/uploads/flshootfespo4og4tm0brb1m3f/img_696fc249b4399.gif)
+
+test kurwa test co do kurwy kuźwa holy shit what the duck fck kurestwo
+Jebaniutki zjeb nigger cwel ciota 
+
+Telemetria start
