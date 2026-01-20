@@ -1,7 +1,7 @@
 # Ala ma kota a kot ma 
 
 
-
+![Konosuba-Gods-Blessing-on-This-Wonderful-World-scaled.webp](/public/temp/uploads/flshootfespo4og4tm0brb1m3f/img_696fb39ba4baa.webp)
 
 ---
 
