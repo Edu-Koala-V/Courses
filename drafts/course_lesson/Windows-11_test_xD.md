@@ -3,3 +3,4 @@
 Telemetria start
 
 ![s8.gif](/public/temp/uploads/flshootfespo4og4tm0brb1m3f/img_696fcebd934d3.gif)
+
