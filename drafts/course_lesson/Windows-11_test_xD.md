@@ -6,4 +6,4 @@
 
 ![ZABLOKOWANO – ZEWNĘTRZNY OBRAZEK](https://placehold.co/600x400?text=Zablokowano+zewnetrzny+obrazek)
 
-![Plakat-A3-Seishun-Yaro-Bunny-Girl-Senpai-Anime.jpg](/public/temp/uploads/bom4iffk4t9i8v6g9u4nv6qq2t/img_69711d9f3aa5f.webp)
+![ZABLOKOWANO - ODMOWA MODERACJI](https://placehold.co/600x400?text=ODMOWA+MODERACJI&bg=RED&color=white)
