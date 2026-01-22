@@ -9,7 +9,7 @@ Testowanko
 
 ![2.png](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_69726e9916c84.webp)
 
-![5.jpg](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_69726ea57d096.webp)
+![5.jpg](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Images/img_69726ea57d096.webp)
 
 
 ![anime-girl-eyes-closeup-vector-600nw-2290018413.jpg](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Images/img_69726eaf33515.webp)
