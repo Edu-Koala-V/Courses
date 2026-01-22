@@ -6,13 +6,7 @@
 
 ![2.png](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_6972809101afc.webp)
 
-![44509433.png](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_697280914dcb7.webp)
 
-
-![4.jpg](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_69728090683b6.webp)
-
-
-![5.jpg](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_69728090b0db2.webp)
 
 
 ![ZABLOKOWANO - ODMOWA MODERACJI](https://placehold.co/600x400/824b30/ffffff?text=ODMOWA+MODERACJI)
