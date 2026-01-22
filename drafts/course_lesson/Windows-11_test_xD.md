@@ -4,7 +4,7 @@ Testowanko
 
 Alicjia
 
-![44509433.png](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_69724d91f0a08.webp)
+![ZABLOKOWANO - ODMOWA MODERACJI](https://placehold.co/600x400?text=ODMOWA+MODERACJI&bg=RED&color=white)
 
 
 ![2.png](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Images/img_69724d90878e9.webp)
