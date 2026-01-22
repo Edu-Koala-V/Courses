@@ -10,7 +10,7 @@ https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/img
 ![1.jpg](https://placehold.co/600x400/824b30/ffffff?text=ODMOWA+MODERACJI)
 
 
-![2.png](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_69729fc46290d.webp)
+![2.png](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/img_69729fc46290d.webp)
 
 ![3.png](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_69729fc31f24e.webp)
 
