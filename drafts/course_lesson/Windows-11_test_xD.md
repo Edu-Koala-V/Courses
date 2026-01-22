@@ -19,14 +19,14 @@ test
 
 ![Plakat-A3-Seishun-Yaro-Bunny-Girl-Senpai-Anime.jpg](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_69729943d84ab.webp)
 
-![3.png](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/img_69729938b6e01.webp)
+https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/img_69729938b6e01.webp)
 
-![5.jpg](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/img_6972993c77c40.webp)
-
-
+https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/img_6972993c77c40.webp)
 
 
-![images.jpg](https://placehold.co/600x400/824b30/ffffff?text=ODMOWA+MODERACJI)
+
+
+![images.jpg](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_6972994e62b2f.webp)
 
 
 
