@@ -3,7 +3,7 @@
 
 test
 
-![OCZEKIWANIE NA WERYFIKACJĘ img_69729fc4183f0.webp](https://placehold.co/600x400?text=OCZEKIWANIE+NA+WERYFIKACJĘ&bg=ORANGE&color=white)
+![OCZEKIWANIE NA WERYFIKACJĘ img_69729fc4183f0.webp](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/img_69729fc4183f0.webp)
 
 
 
