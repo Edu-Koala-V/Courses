@@ -9,8 +9,6 @@ Testowanko
 
 ![3.png](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_6972778969e14.webp)
 
-![Plakat-A3-Seishun-Yaro-Bunny-Girl-Senpai-Anime.jpg](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_69727791607a5.webp)
-
 
 
 ![anime-girl-eyes-closeup-vector-600nw-2290018413.jpg](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_697277943fee4.webp)
