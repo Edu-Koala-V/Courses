@@ -12,7 +12,7 @@ test
 ![44509433.png](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_69729927a318a.webp)
 
 
-![2.png](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_6972992b1639d.webp)
+![2.png](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/img_6972992b1639d.webp)
 
 
 ![4.jpg](https://placehold.co/600x400/824b30/ffffff?text=ODMOWA+MODERACJI)
