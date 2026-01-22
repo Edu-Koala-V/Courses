@@ -20,4 +20,4 @@ Alicjia
 ![images.jpg](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_69724ea38ec3b.webp)
 
 
-![506082205.jpg](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_69724ecdcf0c6.webp)
+![506082205.jpg](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Images/img_69724ecdcf0c6.webp)
