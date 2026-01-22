@@ -17,7 +17,7 @@ test
 
 
 
-![Weryfikacja AI...](https://placehold.co/600x400?text=WERYFIKACJA+AI...&bg=YELLOW&color=black&t=1769115642949)
+![ZABLOKOWANO - Treść NSFW](https://placehold.co/600x400/b5129b/white/?text=ZABLOKOWANO+TREŚĆ+NSFW)
 
 ![ZABLOKOWANO - ZEWNĘTRZNE TREŚCI](https://placehold.co/600x400/808080/ffffff?text=ZABLOKOWANO+ZEWNETRZNE+TRESCI)
 
