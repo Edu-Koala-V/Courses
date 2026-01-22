@@ -8,7 +8,7 @@
 
 ![2.png](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/img_6972abaa60405.webp)
 
-![5.jpg](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_6972abb218341.webp)
+![5.jpg](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/img_6972abb218341.webp)
 
 
 gfsdghkjh khdfakshk
