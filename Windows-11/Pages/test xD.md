@@ -26,7 +26,7 @@ test
 
 
 
-![OCZEKIWANIE NA WERYFIKACJĘ img_6972994e62b2f.webp](https://placehold.co/600x400?text=OCZEKIWANIE+NA+WERYFIKACJĘ&bg=ORANGE&color=white)
+![OCZEKIWANIE NA WERYFIKACJĘ img_6972994e62b2f.webp](https://placehold.co/600x400/824b30/ffffff?text=ODMOWA+MODERACJI)
 
 
 
