@@ -16,4 +16,4 @@ gfsdghkjh khdfakshk
 
 ![6.webp](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_6972ac05da633.webp)
 
-![ZABLOKOWANO – ZEWNĘTRZNY OBRAZEK](https://placehold.co/600x400/808080/ffffff?text=Zablokowano+zewnetrzny+obrazek)
+![ZABLOKOWANO - ZEWNĘTRZNE TREŚCI](https://placehold.co/600x400/808080/ffffff?text=ZABLOKOWANO+ZEWNETRZNE+TRESCI)
