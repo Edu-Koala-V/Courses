@@ -13,7 +13,7 @@ Alicjia
 
 
 
-![ZABLOKOWANO - ODMOWA MODERACJI](https://placehold.co/600x400/824b30/ffffff?text=ODMOWA+MODERACJI)
+![4.jpg](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_69725ce04047d.webp)
 
 
 
