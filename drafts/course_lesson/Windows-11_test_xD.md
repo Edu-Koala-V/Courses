@@ -1,4 +1,4 @@
-# Ala ma kota
+# Ala ma kotki
 
 ![ZABLOKOWANO – ZEWNĘTRZNY OBRAZEK](https://placehold.co/600x400?text=Zablokowano+zewnetrzny+obrazek)
 
