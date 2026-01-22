@@ -2,12 +2,12 @@
 
 Testowanko
 
+![2.png](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_697275fee855a.webp)
 
 
 
-
-![Weryfikacja AI...](https://placehold.co/600x400?text=WERYFIKACJA+AI...&bg=YELLOW&color=black&t=1769108982040)
+![44509433.png](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_697275fc47d2d.webp)
 
 ![ZABLOKOWANO - ZEWNĘTRZNE TREŚCI](https://placehold.co/600x400/808080/ffffff?text=ZABLOKOWANO+ZEWNETRZNE+TRESCI)
 
-![Weryfikacja AI...](https://placehold.co/600x400?text=WERYFIKACJA+AI...&bg=YELLOW&color=black&t=1769108964074)
+![ZABLOKOWANO - Treść NSFW](https://placehold.co/600x400/b5129b/white/?text=ZABLOKOWANO+TREŚĆ+NSFW)
