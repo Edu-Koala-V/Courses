@@ -7,7 +7,7 @@ Alicjia
 
 ![44509433.png](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_697257b47f699.webp)
 
-![1.jpg](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_697257b43f342.webp)
+![ZABLOKOWANO - ODMOWA MODERACJI](https://placehold.co/600x400/824b30/ffffff?text=ODMOWA+MODERACJI)
 
 
 ![2.png](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_697257b4ecdf0.webp)
