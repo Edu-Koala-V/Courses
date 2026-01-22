@@ -17,7 +17,7 @@ Alicjia
 
 ![ZABLOKOWANO – ZEWNĘTRZNY OBRAZEK](https://placehold.co/600x400?text=Zablokowano+zewnetrzny+obrazek)
 
-![ZABLOKOWANO - ODMOWA MODERACJI](https://placehold.co/600x400?text=ODMOWA+MODERACJI&bg=RED&color=white)
+![ZABLOKOWANO – ZEWNĘTRZNY OBRAZEK](https://placehold.co/600x400?text=Zablokowano+zewnetrzny+obrazek)
 
 
 ![506082205.jpg](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Images/img_69724ecdcf0c6.webp)
