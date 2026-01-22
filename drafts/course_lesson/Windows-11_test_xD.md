@@ -9,7 +9,6 @@ Alicjia
 ![44509433.png](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Images/img_69725cdf2d7f2.webp)
 
 
-![2.png](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Images/img_69725ce094815.webp)
 
 
 
@@ -18,7 +17,7 @@ Alicjia
 
 
 
-![5.jpg](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_69725cded2d9a.webp)
+
 
 
 
