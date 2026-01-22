@@ -4,3 +4,5 @@
 
 ![44509433.png](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_69722ca9f0102.webp)
 
+![Plakat-A3-Seishun-Yaro-Bunny-Girl-Senpai-Anime.jpg](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_69722cb90a3bc.webp)
+
