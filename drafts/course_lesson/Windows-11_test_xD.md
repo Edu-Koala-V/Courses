@@ -15,7 +15,7 @@ test
 ![2.png](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_6972992b1639d.webp)
 
 
-![4.jpg](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_69729934482c8.webp)
+![4.jpg](https://placehold.co/600x400/824b30/ffffff?text=ODMOWA+MODERACJI)
 
 ![Plakat-A3-Seishun-Yaro-Bunny-Girl-Senpai-Anime.jpg](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_69729943d84ab.webp)
 
