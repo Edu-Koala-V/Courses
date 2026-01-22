@@ -3,7 +3,7 @@
 Testowanko
 
 
-![28927eb1-8765-4f7b-8b98-bbfae2480590.jpg](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_69726b40ef7d4.webp)
+![28927eb1-8765-4f7b-8b98-bbfae2480590.jpg](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Images/img_69726b40ef7d4.webp)
 
 
 
