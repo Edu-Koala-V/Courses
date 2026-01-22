@@ -12,7 +12,7 @@
 ![5.jpg](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_6972a1374848c.webp)
 
 
-![anime-girl-eyes-closeup-vector-600nw-2290018413.jpg](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_6972a13da99dd.webp)
+![anime-girl-eyes-closeup-vector-600nw-2290018413.jpg](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/img_6972a13da99dd.webp)
 
 
 ![ZABLOKOWANO - ZEWNĘTRZNE TREŚCI](https://placehold.co/600x400/808080/ffffff?text=ZABLOKOWANO+ZEWNETRZNE+TRESCI)
