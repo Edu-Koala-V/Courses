@@ -20,7 +20,7 @@
 
 ---
 
-![sekiro-no-defeat-anime-headline.jpg](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_69728b2ec4645.webp)
+![sekiro-no-defeat-anime-headline.jpg](https://placehold.co/600x400/824b30/ffffff?text=ODMOWA+MODERACJI)
 
 
 
