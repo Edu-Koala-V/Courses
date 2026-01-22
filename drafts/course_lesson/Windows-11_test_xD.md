@@ -5,15 +5,15 @@ test
 
 
 
-![Weryfikacja AI...](https://placehold.co/600x400?text=WERYFIKACJA+AI...&bg=YELLOW&color=black&t=1769115624529)
+![ZABLOKOWANO - Treść NSFW](https://placehold.co/600x400/b5129b/white/?text=ZABLOKOWANO+TREŚĆ+NSFW)
 
 
 
-![Weryfikacja AI...](https://placehold.co/600x400?text=WERYFIKACJA+AI...&bg=YELLOW&color=black&t=1769115628668)
+![ZABLOKOWANO - Treść NSFW](https://placehold.co/600x400/b5129b/white/?text=ZABLOKOWANO+TREŚĆ+NSFW)
 
 
 
-![Weryfikacja AI...](https://placehold.co/600x400?text=WERYFIKACJA+AI...&bg=YELLOW&color=black&t=1769115637110)
+![ZABLOKOWANO - Treść NSFW](https://placehold.co/600x400/b5129b/white/?text=ZABLOKOWANO+TREŚĆ+NSFW)
 
 
 
