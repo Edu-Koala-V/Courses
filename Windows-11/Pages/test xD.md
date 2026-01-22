@@ -4,9 +4,9 @@ Testowanko
 
 ![OCZEKIWANIE NA WERYFIKACJĘ](https://placehold.co/600x400?text=OCZEKIWANIE+NA+WERYFIKACJĘ&bg=ORANGE&color=white)
 
-![OCZEKIWANIE NA WERYFIKACJĘ](https://placehold.co/600x400?text=OCZEKIWANIE+NA+WERYFIKACJĘ&bg=ORANGE&color=white)
+![ZABLOKOWANO - ODMOWA MODERACJI](https://placehold.co/600x400/824b30/ffffff?text=ODMOWA+MODERACJI)
 
-![OCZEKIWANIE NA WERYFIKACJĘ](https://placehold.co/600x400?text=OCZEKIWANIE+NA+WERYFIKACJĘ&bg=ORANGE&color=white)
+![ZABLOKOWANO - ODMOWA MODERACJI](https://placehold.co/600x400/824b30/ffffff?text=ODMOWA+MODERACJI)
 
 ![OCZEKIWANIE NA WERYFIKACJĘ](https://placehold.co/600x400?text=OCZEKIWANIE+NA+WERYFIKACJĘ&bg=ORANGE&color=white)
 
@@ -18,3 +18,6 @@ Testowanko
 ![ZABLOKOWANO - ZEWNĘTRZNE TREŚCI](https://placehold.co/600x400/808080/ffffff?text=ZABLOKOWANO+ZEWNETRZNE+TRESCI)
 
 ![ZABLOKOWANO - Treść NSFW](https://placehold.co/600x400/b5129b/white/?text=ZABLOKOWANO+TREŚĆ+NSFW)
+
+
+Test Draft
