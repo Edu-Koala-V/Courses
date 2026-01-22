@@ -23,7 +23,7 @@ test
 
 ---
 
-![Plakat-A3-Seishun-Yaro-Bunny-Girl-Senpai-Anime.jpg](https://placehold.co/600x400/824b30/ffffff?text=ODMOWA+MODERACJI)
+![ZABLOKOWANO - ODMOWA MODERACJI](https://placehold.co/600x400/824b30/ffffff?text=ODMOWA+MODERACJI)
 
 
 ![ZABLOKOWANO - ZEWNĘTRZNE TREŚCI](https://placehold.co/600x400/808080/ffffff?text=ZABLOKOWANO+ZEWNETRZNE+TRESCI)
