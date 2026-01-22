@@ -1,13 +1,13 @@
 # Ala ma kotki
 
+![OCZEKIWANIE NA WERYFIKACJĘ](https://placehold.co/600x400?text=OCZEKIWANIE+NA+WERYFIKACJĘ&bg=ORANGE&color=white)
+
+
+![OCZEKIWANIE NA WERYFIKACJĘ](https://placehold.co/600x400?text=OCZEKIWANIE+NA+WERYFIKACJĘ&bg=ORANGE&color=white)
+---
+
 Testowanko
 
-![ZABLOKOWANO - ZEWNĘTRZNE TREŚCI](https://placehold.co/600x400/808080/ffffff?text=ZABLOKOWANO+ZEWNETRZNE+TRESCI)
-
-![OCZEKIWANIE NA WERYFIKACJĘ](https://placehold.co/600x400?text=OCZEKIWANIE+NA+WERYFIKACJĘ&bg=ORANGE&color=white)
-
-
-![OCZEKIWANIE NA WERYFIKACJĘ](https://placehold.co/600x400?text=OCZEKIWANIE+NA+WERYFIKACJĘ&bg=ORANGE&color=white)
 
 
 
@@ -27,3 +27,5 @@ Testowanko
 ![ZABLOKOWANO - ODMOWA MODERACJI](https://placehold.co/600x400/824b30/ffffff?text=ODMOWA+MODERACJI)
 
 test
+
+sdasd
