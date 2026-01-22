@@ -9,7 +9,7 @@ $$22$$
 
 ![2.png](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Images/img_697269224193f.webp)
 
-![ZABLOKOWANO - ODMOWA MODERACJI](https://placehold.co/600x400/824b30/ffffff?text=ODMOWA+MODERACJI)
+![5.jpg](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_69726922dc3df.webp)
 
 
 
