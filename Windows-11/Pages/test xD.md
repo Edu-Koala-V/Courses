@@ -19,7 +19,7 @@ test
 
 ![OCZEKIWANIE NA WERYFIKACJĘ img_69729943d84ab.webp](https://placehold.co/600x400?text=OCZEKIWANIE+NA+WERYFIKACJĘ&bg=ORANGE&color=white)
 
-![OCZEKIWANIE NA WERYFIKACJĘ img_69729938b6e01.webp](https://placehold.co/600x400?text=OCZEKIWANIE+NA+WERYFIKACJĘ&bg=ORANGE&color=white)
+![OCZEKIWANIE NA WERYFIKACJĘ img_69729938b6e01.webp](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/img_69729938b6e01.webp)
 
 ![OCZEKIWANIE NA WERYFIKACJĘ img_6972993c77c40.webp](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/img_6972993c77c40.webp)
 
