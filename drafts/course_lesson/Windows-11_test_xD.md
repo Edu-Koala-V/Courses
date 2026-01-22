@@ -12,7 +12,7 @@ https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/img
 
 ![2.png](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/img_69729fc46290d.webp)
 
-![3.png](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_69729fc31f24e.webp)
+![3.png](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/img_69729fc31f24e.webp)
 
 
 ![ZABLOKOWANO - Treść NSFW](https://placehold.co/600x400/b5129b/white/?text=ZABLOKOWANO+TREŚĆ+NSFW)
