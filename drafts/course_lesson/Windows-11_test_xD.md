@@ -3,7 +3,7 @@
 xD
 
 
-![ZABLOKOWANO - ODMOWA MODERACJI](https://placehold.co/600x400?text=ODMOWA+MODERACJI&bg=RED&color=white)
+![ZABLOKOWANO – ZEWNĘTRZNY OBRAZEK](https://placehold.co/600x400?text=Zablokowano+zewnetrzny+obrazek)
 
 
 ![ZABLOKOWANO – ZEWNĘTRZNY OBRAZEK](https://placehold.co/600x400?text=Zablokowano+zewnetrzny+obrazek)
