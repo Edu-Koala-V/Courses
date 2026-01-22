@@ -20,7 +20,7 @@
 
 ---
 
-![sekiro-no-defeat-anime-headline.jpg](https://placehold.co/600x400/824b30/ffffff?text=ODMOWA+MODERACJI)
+![ZABLOKOWANO - ODMOWA MODERACJI](https://placehold.co/600x400/824b30/ffffff?text=ODMOWA+MODERACJI)
 
 
 
