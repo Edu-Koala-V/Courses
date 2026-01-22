@@ -6,7 +6,7 @@ Alicjia
 
 ![ZABLOKOWANO - Treść NSFW](https://placehold.co/600x400/b5129b/white/?text=ZABLOKOWANO+TREŚĆ+NSFW)
 
-![44509433.png](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_69725cdf2d7f2.webp)
+![44509433.png](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Images/img_69725cdf2d7f2.webp)
 
 
 ![2.png](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_69725ce094815.webp)
