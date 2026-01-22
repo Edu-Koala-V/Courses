@@ -5,11 +5,15 @@ Testowanko
 Alicjia
 
 
-![Weryfikacja AI...](https://placehold.co/600x400?text=WERYFIKACJA+AI...&bg=YELLOW&color=black&t=1769101192593)
+![44509433.png](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_697257b47f699.webp)
 
-![Weryfikacja AI...](https://placehold.co/600x400?text=WERYFIKACJA+AI...&bg=YELLOW&color=black&t=1769101217576)
+![1.jpg](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_697257b43f342.webp)
 
 
-![Weryfikacja AI...](https://placehold.co/600x400?text=WERYFIKACJA+AI...&bg=YELLOW&color=black&t=1769101227153)
+![2.png](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_697257b4ecdf0.webp)
+
+
+![506263779.jpg](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_697257b386706.webp)
+
 
 
