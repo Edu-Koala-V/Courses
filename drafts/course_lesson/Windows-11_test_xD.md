@@ -8,6 +8,8 @@ xD
 ![2.png](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_69724407da05a.webp)
 
 
+![6.webp](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_69724414883d6.webp)
+
 
 ![ZABLOKOWANO – ZEWNĘTRZNY OBRAZEK](https://placehold.co/600x400?text=Zablokowano+zewnetrzny+obrazek)
 
