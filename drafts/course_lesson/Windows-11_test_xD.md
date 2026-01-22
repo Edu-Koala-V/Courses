@@ -17,7 +17,7 @@ test
 
 ![4.jpg](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_69729934482c8.webp)
 
-
+![Weryfikacja AI...](https://placehold.co/600x400?text=WERYFIKACJA+AI...&bg=YELLOW&color=black&t=1769118017008)
 
 ![3.png](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_69729938b6e01.webp)
 
