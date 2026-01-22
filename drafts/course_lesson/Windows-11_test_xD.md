@@ -4,7 +4,7 @@ Testowanko
 
 ![2.png](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_697275fee855a.webp)
 
-![anime-girl-eyes-closeup-vector-600nw-2290018413.jpg](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_697276043ab49.webp)
+![ZABLOKOWANO - ODMOWA MODERACJI](https://placehold.co/600x400/824b30/ffffff?text=ODMOWA+MODERACJI)
 
 ![ZABLOKOWANO - ODMOWA MODERACJI](https://placehold.co/600x400/824b30/ffffff?text=ODMOWA+MODERACJI)
 
