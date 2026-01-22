@@ -5,11 +5,11 @@ Testowanko
 $$22$$
 
 
-![Weryfikacja AI...](https://placehold.co/600x400?text=WERYFIKACJA+AI...&bg=YELLOW&color=black&t=1769105663695)
+![44509433.png](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_69726922a7c3c.webp)
 
-![Weryfikacja AI...](https://placehold.co/600x400?text=WERYFIKACJA+AI...&bg=YELLOW&color=black&t=1769105670503)
+![2.png](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_697269224193f.webp)
 
-![Weryfikacja AI...](https://placehold.co/600x400?text=WERYFIKACJA+AI...&bg=YELLOW&color=black&t=1769105678083)
+![5.jpg](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_69726922dc3df.webp)
 
 
-![Weryfikacja AI...](https://placehold.co/600x400?text=WERYFIKACJA+AI...&bg=YELLOW&color=black&t=1769105684996)
+![6.webp](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_69726921ecfd9.webp)
