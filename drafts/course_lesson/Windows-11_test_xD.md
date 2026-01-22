@@ -18,3 +18,7 @@ Alicjia
 
 
 
+![Weryfikacja AI...](https://placehold.co/600x400?text=WERYFIKACJA+AI...&bg=YELLOW&color=black&t=1769102549030)
+
+
+
