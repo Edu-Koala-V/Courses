@@ -9,7 +9,7 @@ test
 
 ![ZABLOKOWANO - ZEWNĘTRZNE TREŚCI](https://placehold.co/600x400/808080/ffffff?text=ZABLOKOWANO+ZEWNETRZNE+TRESCI)
 
-![44509433.png](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_69729927a318a.webp)
+![44509433.png](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/img_69729927a318a.webp)
 
 
 ![2.png](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/img_6972992b1639d.webp)
