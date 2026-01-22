@@ -12,7 +12,7 @@ Testowanko
 ![5.jpg](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_69726ea57d096.webp)
 
 
-![anime-girl-eyes-closeup-vector-600nw-2290018413.jpg](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_69726eaf33515.webp)
+![anime-girl-eyes-closeup-vector-600nw-2290018413.jpg](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Images/img_69726eaf33515.webp)
 
 ![Plakat-A3-Seishun-Yaro-Bunny-Girl-Senpai-Anime.jpg](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_69726ead0fe48.webp)
 
