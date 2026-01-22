@@ -1,6 +1,8 @@
 # Ala ma kotki
 
-![Weryfikacja AI...](https://placehold.co/600x400?text=WERYFIKACJA+AI...&bg=YELLOW&color=black&t=1769110428528)
+![images.jpg](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_69727bb3732d9.webp)
+
+
 
 ---
 
