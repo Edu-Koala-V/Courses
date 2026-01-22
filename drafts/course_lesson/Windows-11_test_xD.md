@@ -6,7 +6,7 @@ Testowanko
 
 ![anime-girl-eyes-closeup-vector-600nw-2290018413.jpg](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_697276043ab49.webp)
 
-![44509433.png](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_697275fc47d2d.webp)
+![ZABLOKOWANO - ODMOWA MODERACJI](https://placehold.co/600x400/824b30/ffffff?text=ODMOWA+MODERACJI)
 
 ![6.webp](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_6972760b59b8b.webp)
 
