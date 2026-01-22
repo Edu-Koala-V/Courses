@@ -7,7 +7,7 @@ test
 
 
 
-![1.jpg](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_69729fc400168.webp)
+![1.jpg](https://placehold.co/600x400/824b30/ffffff?text=ODMOWA+MODERACJI)
 
 
 ![2.png](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_69729fc46290d.webp)
