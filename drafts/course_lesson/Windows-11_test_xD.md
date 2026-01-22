@@ -8,7 +8,7 @@ test
 
 
 
-![1.jpg](https://placehold.co/600x400/824b30/ffffff?text=ODMOWA+MODERACJI)
+![ZABLOKOWANO - ODMOWA MODERACJI](https://placehold.co/600x400/824b30/ffffff?text=ODMOWA+MODERACJI)
 
 
 
