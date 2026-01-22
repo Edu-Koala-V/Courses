@@ -2,8 +2,7 @@
 
 ![ZABLOKOWANO – ZEWNĘTRZNY OBRAZEK](https://placehold.co/600x400?text=Zablokowano+zewnetrzny+obrazek)
 
-![2.png](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/img_696ff6a1722d3.webp)
+![44509433.png](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Images/img_69722ca9f0102.webp)
 
-![ZABLOKOWANO – ZEWNĘTRZNY OBRAZEK](https://placehold.co/600x400?text=Zablokowano+zewnetrzny+obrazek)
+![ZABLOKOWANO - ODMOWA MODERACJI](https://placehold.co/600x400?text=ODMOWA+MODERACJI&bg=RED&color=white)
 
-![ZABLOKOWANO – ZEWNĘTRZNY OBRAZEK](https://placehold.co/600x400?text=Zablokowano+zewnetrzny+obrazek)
