@@ -15,3 +15,7 @@ $$22$$
 ![6.webp](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_69726921ecfd9.webp)
 
 ![ZABLOKOWANO - Treść NSFW](https://placehold.co/600x400/b5129b/white/?text=ZABLOKOWANO+TREŚĆ+NSFW)
+
+
+![ZABLOKOWANO – ZEWNĘTRZNY OBRAZEK](https://placehold.co/600x400/808080/ffffff?text=Zablokowano+zewnetrzny+obrazek)
+
