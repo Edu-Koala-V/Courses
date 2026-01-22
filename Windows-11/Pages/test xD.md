@@ -4,9 +4,17 @@
 
 
 
-![OCZEKIWANIE NA WERYFIKACJĘ img_6972aba48a8d1.webp](https://placehold.co/600x400/824b30/ffffff?text=ODMOWA+MODERACJI)
+![44509433.png](https://placehold.co/600x400/824b30/ffffff?text=ODMOWA+MODERACJI)
 
-![OCZEKIWANIE NA WERYFIKACJĘ img_6972abaa60405.webp](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/img_6972abaa60405.webp)
+![2.png](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/img_6972abaa60405.webp)
 
-![OCZEKIWANIE NA WERYFIKACJĘ img_6972abb218341.webp](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/img_6972abb218341.webp)
----
+![5.jpg](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/img_6972abb218341.webp)
+
+
+gfsdghkjh khdfakds
+
+![6.webp](https://placehold.co/600x400/824b30/ffffff?text=ODMOWA+MODERACJI)
+
+![ZABLOKOWANO - ZEWNĘTRZNE TREŚCI](https://placehold.co/600x400/808080/ffffff?text=ZABLOKOWANO+ZEWNETRZNE+TRESCI)
+
+
