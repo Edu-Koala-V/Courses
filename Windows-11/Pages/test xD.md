@@ -4,7 +4,7 @@
 ![OCZEKIWANIE NA WERYFIKACJĘ img_6972a3fe94ebb.webp](https://placehold.co/600x400?text=OCZEKIWANIE+NA+WERYFIKACJĘ&bg=ORANGE&color=white)
 
 
-![OCZEKIWANIE NA WERYFIKACJĘ img_6972a405cb2ca.webp](https://placehold.co/600x400?text=OCZEKIWANIE+NA+WERYFIKACJĘ&bg=ORANGE&color=white)
+![OCZEKIWANIE NA WERYFIKACJĘ img_6972a405cb2ca.webp](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/img_6972a405cb2ca.webp)
 
 
 ![OCZEKIWANIE NA WERYFIKACJĘ img_6972a40977a09.webp](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/img_6972a40977a09.webp)
