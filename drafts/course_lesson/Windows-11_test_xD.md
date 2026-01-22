@@ -15,7 +15,7 @@
 ![5.jpg](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_69728090b0db2.webp)
 
 
-![5.jpg](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_6972809ac94ff.webp)
+![ZABLOKOWANO - ODMOWA MODERACJI](https://placehold.co/600x400/824b30/ffffff?text=ODMOWA+MODERACJI)
 
 ![6.webp](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_69728095498d4.webp)
 
