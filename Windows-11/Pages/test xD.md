@@ -12,7 +12,7 @@ test
 
 ![OCZEKIWANIE NA WERYFIKACJĘ img_69729fc46290d.webp](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/img_69729fc46290d.webp)
 
-![OCZEKIWANIE NA WERYFIKACJĘ img_69729fc31f24e.webp](https://placehold.co/600x400?text=OCZEKIWANIE+NA+WERYFIKACJĘ&bg=ORANGE&color=white)
+![OCZEKIWANIE NA WERYFIKACJĘ img_69729fc31f24e.webp](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/img_69729fc31f24e.webp)
 
 
 ![ZABLOKOWANO - Treść NSFW](https://placehold.co/600x400/b5129b/white/?text=ZABLOKOWANO+TREŚĆ+NSFW)
