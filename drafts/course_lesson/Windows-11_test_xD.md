@@ -2,7 +2,7 @@
 
 xDDDD
 
-
+![1.jpg](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_69724902ba4bd.webp)
 
 
 ![ZABLOKOWANO – ZEWNĘTRZNY OBRAZEK](https://placehold.co/600x400?text=Zablokowano+zewnetrzny+obrazek)
@@ -11,7 +11,7 @@ xDDDD
 ![2.png](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_697247eebef74.webp)
 
 
-![Konosuba-Gods-Blessing-on-This-Wonderful-World-scaled.webp](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Images/img_697247fc0b126.webp)
+![Konosuba-Gods-Blessing-on-This-Wonderful-World-scaled.webp](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_697247fc0b126.webp)
 
 
 
