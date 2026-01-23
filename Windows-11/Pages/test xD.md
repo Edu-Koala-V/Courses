@@ -14,7 +14,7 @@
 
 
 
-![OCZEKIWANIE NA WERYFIKACJĘ img_69732fe3a9970.webp](https://placehold.co/600x400?text=OCZEKIWANIE+NA+WERYFIKACJĘ&bg=ORANGE&color=white)
+![OCZEKIWANIE NA WERYFIKACJĘ img_69732fe3a9970.webp](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/img_69732fe3a9970.webp)
 
 
 
