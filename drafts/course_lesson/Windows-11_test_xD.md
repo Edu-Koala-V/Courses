@@ -17,4 +17,4 @@
 ![ZABLOKOWANO - ZEWNĘTRZNE TREŚCI](https://placehold.co/600x400/808080/ffffff?text=ZABLOKOWANO+ZEWNETRZNE+TRESCI)
 
 
-![506263779.jpg](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/506263779_69735f896ca79.webp)
+![506263779.jpg](https://placehold.co/600x400/993200/ffffff?text=ODMOWA+MODERACJI)
