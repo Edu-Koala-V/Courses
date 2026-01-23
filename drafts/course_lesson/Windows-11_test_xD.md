@@ -21,4 +21,4 @@
 
 ![images.jpg](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/images_697360c5a5b90.webp)
 
-![506082205.jpg](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/506082205_697360c2c9db0.webp)
+![506082205.jpg](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/506082205_697360c2c9db0.webp)
