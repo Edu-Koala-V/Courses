@@ -3,7 +3,7 @@
 ![ZABLOKOWANO - Treść NSFW](https://placehold.co/600x400/b5129b/white/?text=ZABLOKOWANO+TREŚĆ+NSFW)
 
 
-
+![sekiro-no-defeat-anime-headline.jpg](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_697330bdcdd9c.webp)
 
 ![44509433.png](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_69732fda4e58b.webp)
 
