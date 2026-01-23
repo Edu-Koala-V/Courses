@@ -1,5 +1,4 @@
 # Ala ma kotki
 
 
-![]
-![ZABLOKOWANO - ZEWNĘTRZNE TREŚCI](https://placehold.co/600x400/808080/ffffff?text=ZABLOKOWANO+ZEWNETRZNE+TRESCI).g
+![](https://raw.githubusercontent.com/Edu-Koala-V/Courses/refs/heads/main/Windows-11/Images/BitLocker-panel-sterowania.webp)
