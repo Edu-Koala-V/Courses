@@ -18,7 +18,7 @@
 
 
 
-![6.webp](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_69732fe95df75.webp)
+![6.webp](https://placehold.co/600x400/824b30/ffffff?text=ODMOWA+MODERACJI)
 
 
 
