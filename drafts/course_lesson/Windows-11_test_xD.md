@@ -1,5 +1,5 @@
 # Ala ma kotki
 
-![Weryfikacja AI...](https://placehold.co/600x400/8cb9a4/000000/?text=WERYFIKACJA+AI...&t=1769159840327)
+![ZABLOKOWANO - Treść NSFW](https://placehold.co/600x400/993200/ffffff/?text=ZABLOKOWANO+TREŚĆ+NSFW)
 
 
