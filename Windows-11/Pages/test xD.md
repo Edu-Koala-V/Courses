@@ -8,7 +8,7 @@
 
 ![batch-for-pliki.webp](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/batch-for-pliki.webp)
 
-![OCZEKIWANIE NA WERYFIKACJĘ plakat-a3-seishun-yaro-bunny-girl-senpai-anime_69735f2a2645b.webp](https://placehold.co/600x400?text=OCZEKIWANIE+NA+WERYFIKACJĘ&bg=ORANGE&color=white)
+![OCZEKIWANIE NA WERYFIKACJĘ plakat-a3-seishun-yaro-bunny-girl-senpai-anime_69735f2a2645b.webp](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/plakat-a3-seishun-yaro-bunny-girl-senpai-anime_69735f2a2645b.webp)
 
 
 ![ZABLOKOWANO - Treść NSFW](https://placehold.co/600x400/791966/ffffff/?text=ZABLOKOWANO+TREŚĆ+NSFW)
