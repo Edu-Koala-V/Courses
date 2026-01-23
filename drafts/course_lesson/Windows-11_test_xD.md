@@ -1,4 +1,4 @@
 # Ala ma kotki
 
 ![]
-![Weryfikacja TREŚCI NSFW...](https://placehold.co/600x400/8cb9a4/000000/?text=WERYFIKACJA+TREŚCI+NSFW...&t=1769164518579)
+![4.jpg](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_69734f1e3c140.webp)
