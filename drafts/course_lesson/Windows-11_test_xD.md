@@ -1,5 +1,4 @@
 # Ala ma kotki
 
 
-
-![
+![]
