@@ -1,5 +1,20 @@
 # Ala ma kotki
 
+<data-quiz>
+  <question>
+  Co zostanie wyświetlone w konsoli?
+  ```js
+   console.log(2+2)
+  ```
+   </question>
+  <options>
+    <option>3</option>
+    <option correct>4</option>
+    <option>22</option>
+  </options>
+</data-quiz>
+
+
 ![ZABLOKOWANO - Treść NSFW](https://placehold.co/600x400/b5129b/white/?text=ZABLOKOWANO+TREŚĆ+NSFW)
 
 
