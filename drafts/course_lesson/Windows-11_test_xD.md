@@ -1,6 +1,6 @@
 # Ala ma kotki
 
 
-![Weryfikacja TREŚCI NSFW...](https://placehold.co/600x400/8cb9a4/000000/?text=WERYFIKACJA+TREŚCI+NSFW...&t=1769162532709)
+![ZABLOKOWANO - Treść NSFW](https://placehold.co/600x400/791966/ffffff/?text=ZABLOKOWANO+TREŚĆ+NSFW)
 
 ![ZABLOKOWANO - ZEWNĘTRZNE TREŚCI](https://placehold.co/600x400/808080/ffffff?text=ZABLOKOWANO+ZEWNETRZNE+TRESCI)
