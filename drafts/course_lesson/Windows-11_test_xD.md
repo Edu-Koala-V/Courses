@@ -19,6 +19,6 @@
 
 ![Plakat-A3-Seishun-Yaro-Bunny-Girl-Senpai-Anime.jpg](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/plakat-a3-seishun-yaro-bunny-girl-senpai-anime_697360cfd4244.webp)
 
-![images.jpg](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/images_697360c5a5b90.webp)
+![images.jpg](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/images_697360c5a5b90.webp)
 
 ![506082205.jpg](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/506082205_697360c2c9db0.webp)
