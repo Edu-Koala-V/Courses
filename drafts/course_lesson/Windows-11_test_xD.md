@@ -7,7 +7,7 @@
 
 
 
-![2.png](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_69732bb69cbd5.webp)
+![2.png](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/img_69732bb69cbd5.webp)
 
 
 
