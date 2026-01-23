@@ -37,6 +37,6 @@ asas
 
 
 
-![Weryfikacja AI...](https://placehold.co/600x400/yellow/black/?text=WERYFIKACJA+AI...&t=1769156795913)
+![Weryfikacja AI...](https://placehold.co/600x400/5a7d6d/black/?text=WERYFIKACJA+AI...&t=1769156795913)
 
 
