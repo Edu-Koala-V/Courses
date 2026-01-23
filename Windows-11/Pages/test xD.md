@@ -1,20 +1,20 @@
 # Ala ma kotki
 
-![ZABLOKOWANO - Treść NSFW](https://placehold.co/600x400/b5129b/white/?text=ZABLOKOWANO+TREŚĆ+NSFW)
+![OCZEKIWANIE NA WERYFIKACJĘ img_69732baadac25.webp](https://placehold.co/600x400?text=OCZEKIWANIE+NA+WERYFIKACJĘ&bg=ORANGE&color=white)
+
+
+![OCZEKIWANIE NA WERYFIKACJĘ img_69732bb16c26c.webp](https://placehold.co/600x400?text=OCZEKIWANIE+NA+WERYFIKACJĘ&bg=ORANGE&color=white)
 
 
 
-![44509433.png](https://placehold.co/600x400/824b30/ffffff?text=ODMOWA+MODERACJI)
-
-![2.png](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/img_6972abaa60405.webp)
-
-![5.jpg](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/img_6972abb218341.webp)
+![OCZEKIWANIE NA WERYFIKACJĘ img_69732bb69cbd5.webp](https://placehold.co/600x400?text=OCZEKIWANIE+NA+WERYFIKACJĘ&bg=ORANGE&color=white)
 
 
-gfsdghkjh khdfakds
 
-![6.webp](https://placehold.co/600x400/824b30/ffffff?text=ODMOWA+MODERACJI)
+![OCZEKIWANIE NA WERYFIKACJĘ img_69732bbf91f25.webp](https://placehold.co/600x400?text=OCZEKIWANIE+NA+WERYFIKACJĘ&bg=ORANGE&color=white)
 
-![ZABLOKOWANO - ZEWNĘTRZNE TREŚCI](https://placehold.co/600x400/808080/ffffff?text=ZABLOKOWANO+ZEWNETRZNE+TRESCI)
 
+
+
+![OCZEKIWANIE NA WERYFIKACJĘ img_69732be06ec25.webp](https://placehold.co/600x400?text=OCZEKIWANIE+NA+WERYFIKACJĘ&bg=ORANGE&color=white)
 
