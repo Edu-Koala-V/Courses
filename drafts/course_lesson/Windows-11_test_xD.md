@@ -63,3 +63,4 @@ ktury
 ![OCZEKIWANIE NA WERYFIKACJĘ img_69732fe0c76ca.webp](https://placehold.co/600x400/31425e/white?text=OCZEKIWANIE+NA+WERYFIKACJĘ)
 
 
+![ZABLOKOWANO - ZEWNĘTRZNE TREŚCI](https://placehold.co/600x400/808080/ffffff?text=ZABLOKOWANO+ZEWNETRZNE+TRESCI)
