@@ -25,3 +25,6 @@
 
 
 ![panel-sterowania-icon.png](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/panel-sterowania-icon.png)
+
+
+![]
