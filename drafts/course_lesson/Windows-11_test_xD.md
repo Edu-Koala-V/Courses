@@ -40,3 +40,11 @@ asas
 ![Weryfikacja TREŚCI NSFW...](https://placehold.co/600x400/8cb9a4/black/?text=WERYFIKACJA+TREŚCI+NSFW...&t=1769156795913)
 
 
+
+![OCZEKIWANIE NA WERYFIKACJĘ img_69732fe0c76ca.webp](https://placehold.co/600x400?text=OCZEKIWANIE+NA+WERYFIKACJĘ&bg=ORANGE&color=white)
+
+
+
+![OCZEKIWANIE NA WERYFIKACJĘ img_69732fe0c76ca.webp](https://placehold.co/600x400?text=OCZEKIWANIE+NA+WERYFIKACJĘ&bg=ORANGE&color=white)
+
+
