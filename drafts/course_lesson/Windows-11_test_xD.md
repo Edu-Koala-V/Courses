@@ -9,7 +9,7 @@
 ![batch-for-pliki.webp](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/batch-for-pliki.webp)
 
 
-![Plakat-A3-Seishun-Yaro-Bunny-Gssirl-Senpasi-Anime.jpg](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/plakat-a3-seishun-yaro-bunny-girl-senpai-anime_69735fb7950de.webp)
+![Plakat-A3ss-Seishun-Yaro-Bunny-Gssirl-Senpasi-Anime.jpg](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/plakat-a3-seishun-yaro-bunny-girl-senpai-anime_69735fb7950de.webp)
 
 
 ![ZABLOKOWANO - Treść NSFW](https://placehold.co/600x400/791966/ffffff/?text=ZABLOKOWANO+TREŚĆ+NSFW)
