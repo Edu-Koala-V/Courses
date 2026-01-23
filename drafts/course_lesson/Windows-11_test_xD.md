@@ -26,5 +26,5 @@
 
 ![panel-sterowania-icon.png](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/panel-sterowania-icon.png)
 
-![]
+![diskmgmt.msc_wolumin_prosty.webp](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/diskmgmt.msc_wolumin_prosty.webp)
 ![]
