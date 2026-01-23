@@ -50,6 +50,7 @@ Ala ma kota który skacze ktury
 ![Weryfikacja AI...](https://placehold.co/600x400?text=WERYFIKACJA+AI...&bg=YELLOW&color=black&t=1769156795913)
 
 
+ktury 
 
 ![Weryfikacja TREŚCI NSFW...](https://placehold.co/600x400/8cb9a4/black/?text=WERYFIKACJA+TREŚCI+NSFW...&t=1769156795913)
 
