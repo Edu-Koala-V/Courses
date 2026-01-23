@@ -1,2 +1,17 @@
 # Ala ma kotki
 
+
+![anime-girl-eyes-closeup-vector-600nw-2290018413.jpg](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/anime-girl-eyes-closeup-vector-600nw-2290018413_69735eaa730e7.webp)
+
+![anime-girl-eyes-closeup-vector-600nw-2290018413_69735eaa730e7.webp](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/anime-girl-eyes-closeup-vector-600nw-2290018413_69735eaa730e7.webp)
+
+
+![batch-for-pliki.webp](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/batch-for-pliki.webp)
+
+![OCZEKIWANIE NA WERYFIKACJĘ plakat-a3-seishun-yaro-bunny-girl-senpai-anime_69735f2a2645b.webp](https://placehold.co/600x400?text=OCZEKIWANIE+NA+WERYFIKACJĘ&bg=ORANGE&color=white)
+
+
+![ZABLOKOWANO - Treść NSFW](https://placehold.co/600x400/791966/ffffff/?text=ZABLOKOWANO+TREŚĆ+NSFW)
+
+
+![ZABLOKOWANO - ZEWNĘTRZNE TREŚCI](https://placehold.co/600x400/808080/ffffff?text=ZABLOKOWANO+ZEWNETRZNE+TRESCI)
