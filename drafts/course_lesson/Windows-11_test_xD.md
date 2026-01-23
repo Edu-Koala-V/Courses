@@ -13,7 +13,7 @@
 ![anime-girl-eyes-closeup-vector-600nw-2290018413.jpg](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/anime-girl-eyes-closeup-vector-600nw-2290018413_6973607334107.webp)
 
 
-![3.png](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/3_697360d45b5cd.webp)
+![3.png](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/3_697360d45b5cd.webp)
 
 ![4.jpg](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/4_697360babedb3.webp)
 
