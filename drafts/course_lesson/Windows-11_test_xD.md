@@ -45,6 +45,6 @@ asas
 
 
 
-![OCZEKIWANIE NA WERYFIKACJĘ img_69732fe0c76ca.webp](https://placehold.co/600x400/31425e/WHITE?text=OCZEKIWANIE+NA+WERYFIKACJĘ&bg=ORANGE&color=white)
+![OCZEKIWANIE NA WERYFIKACJĘ img_69732fe0c76ca.webp](https://placehold.co/600x400/31425e/white?text=OCZEKIWANIE+NA+WERYFIKACJĘ&bg=ORANGE&color=white)
 
 
