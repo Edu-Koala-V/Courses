@@ -30,7 +30,7 @@ asas
 
 
 ![6.webp](https://placehold.co/600x400/824b30/ffffff?text=ODMOWA+MODERACJI)
-![6.webp](https://placehold.co/600x400/824b30/ffffff?text=ODMOWA+MODERACJI)
+![6.webp](https://placehold.co/600x400/993200/ffffff?text=ODMOWA+MODERACJI)
 
 
 
