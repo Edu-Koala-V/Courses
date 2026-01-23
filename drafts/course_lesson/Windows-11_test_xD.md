@@ -16,7 +16,7 @@
 
 
 
-![images.jpg](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/img_69732be06ec25.webp)
+![images.jpg](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/img_69732be06ec25.webp)
 
 ![ZABLOKOWANO - Treść NSFW](https://placehold.co/600x400/b5129b/white/?text=ZABLOKOWANO+TREŚĆ+NSFW)
 
