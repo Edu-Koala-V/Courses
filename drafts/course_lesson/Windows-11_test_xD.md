@@ -18,7 +18,7 @@ sahdkjhsakj
 daskasdjlkasjdas
 dasdahskassdasdjasndasd
 asas
-
+s
 
 ![2.png](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/img_69732fe3a9970.webp)
 
