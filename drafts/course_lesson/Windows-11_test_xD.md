@@ -31,7 +31,7 @@ asas
 
 ![6.webp](https://placehold.co/600x400/824b30/ffffff?text=ODMOWA+MODERACJI)
 
-
+993200
 
 ![Weryfikacja AI...](https://placehold.co/600x400?text=WERYFIKACJA+AI...&bg=YELLOW&color=black&t=1769156795913)
 
