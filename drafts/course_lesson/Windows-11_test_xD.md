@@ -7,4 +7,4 @@
 
 ![ZABLOKOWANO - Treść NSFW](https://placehold.co/600x400/791966/ffffff/?text=ZABLOKOWANO+TREŚĆ+NSFW)
 
-![Weryfikacja TREŚCI NSFW...](https://placehold.co/600x400/8cb9a4/000000/?text=WERYFIKACJA+TREŚCI+NSFW...&t=1769167790463)
+![Plakat-A3-Seishun-Yaro-Bunny-Girl-Senpai-Anime.jpg](/public/temp/uploads/eupl2k3si1uqbrk8ner5v1q77c/plakat-a3-seishun-yaro-bunny-girl-senpai-anime_69735bb1643b2.webp)
