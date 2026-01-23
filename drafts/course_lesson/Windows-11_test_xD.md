@@ -24,5 +24,4 @@
 ![506082205.jpg](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/506082205_697360c2c9db0.webp)
 
 
-
-
+![p]
