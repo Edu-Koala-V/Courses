@@ -8,4 +8,4 @@ GIT GOOD
 
 
 
-![]
+![batch-ala-kotek-param.webp](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/batch-ala-kotek-param.webp)
