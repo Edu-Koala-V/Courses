@@ -11,3 +11,4 @@ GIT GOOD
 ![batch-ala-kotek-param.webp](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/batch-ala-kotek-param.webp)
 
 
+![4.jpg](/public/temp/uploads/g2m2k9dibnakr28tnnl9c5lfik/4_69742379cf400.webp)
