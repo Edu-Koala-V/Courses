@@ -3,4 +3,4 @@
 
 GIT GOOD
 
-![Weryfikacja TREŚCI NSFW...](https://placehold.co/600x400/8cb9a4/000000/?text=WERYFIKACJA+TREŚCI+NSFW...&t=1769218981660)
+![5.jpg](/public/temp/uploads/g2m2k9dibnakr28tnnl9c5lfik/5_697423a9f11bb.webp)
