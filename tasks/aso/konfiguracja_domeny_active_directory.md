@@ -32,3 +32,6 @@ Klienci mają mieć ustawione interfejsy na automatyczny `DHCP`
   - Maska podsieci klasa _**C**_
   - Zarezerwuj adres `192.168.5.200` dla maszyny z systemem *Windows 11 Pro*
 - Przeprowadź test łączności komendą `ping` pomiędzy maszynami.
+
+
+![44509433.png](/public/temp/uploads/5pphgd80vs860lrb10qv2v1ce7/44509433_697b430a62da7.webp)
