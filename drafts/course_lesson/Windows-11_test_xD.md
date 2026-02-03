@@ -22,3 +22,11 @@
 
 
 ![Siajabajka - Sesja  Kimo Yume KAWAII.mp3](https://placehold.co/600x400/88147b/white?text=WYKRYTO+TREŚĆ+NSFW)![Batch Scripting_ Conditional Statements in CMD.wav](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Audio/Batch%20Scripting_%20Conditional%20Statements%20in%20CMD.wav)
+
+
+
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/byILzcsdqoE?si=8UkH43E4N6WxVHMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
