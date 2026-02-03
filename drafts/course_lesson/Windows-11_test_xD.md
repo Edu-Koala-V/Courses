@@ -8,3 +8,4 @@
 
 ![batch-for-f-dirs.webp](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/batch-for-f-dirs.webp)
 
+![OCZEKIWANIE NA WERYFIKACJĘ](https://placehold.co/600x400/004c98/white?text=OCZEKIWANIE+NA+WERYFIKACJE+MODERACJI)
