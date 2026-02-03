@@ -6,7 +6,7 @@
 ![NSFW - ODRZUCONO](https://placehold.co/600x400/800000/white?text=NSFW+DETECTED)
 
 
-![asset_698204b9b5823.webp - OCZEKIWANIE NA WERYFIKACJĘ](https://placehold.co/600x400/800000/white?text=ODRZUCONO+PRZEZ+MODERACJE)
+![asset_698204b9b5823.webp - OCZEKIWANIE NA WERYFIKACJĘ](https://placehold.co/600x400/88147b/white?text=ODRZUCONO+PRZEZ+MODERACJE)
 
 
 ![asset_698205722f742.webp - OCZEKIWANIE NA WERYFIKACJĘ](https://placehold.co/600x400/682b2b/white?text=OCZEKIWANIE+NA+WERYFIKACJE+MODERACJI)
