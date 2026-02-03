@@ -8,4 +8,4 @@
 
 ![WYKRYTO TREŚĆ NSFW](https://placehold.co/600x400/88147b/white?text=WYKRYTO+TREŚĆ+NSFW)
 
-![]
+![batch-for-if-tabliczka-mnożenia.webp](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/batch-for-if-tabliczka-mnożenia.webp)
