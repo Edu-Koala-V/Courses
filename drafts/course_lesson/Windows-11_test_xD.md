@@ -1,7 +1,7 @@
 # Ala ma kotki
 
 
-![asset_69823c143c223.webp - OCZEKIWANIE NA WERYFIKACJĘ](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/asset_69823c143c223.webp)
+![https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/asset_69823c143c223.webp](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/asset_69823c143c223.webp)
 
 ![https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/asset_69823bc9aabe8.webp](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/asset_69823bc9aabe8.webp)
 
