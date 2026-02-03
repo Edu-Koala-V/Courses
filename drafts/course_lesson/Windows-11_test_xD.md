@@ -12,5 +12,3 @@ https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/ass
 ![batch-for-if-tabliczka-mnożenia.webp](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/batch-for-if-tabliczka-mnożenia.webp)
 
 
-
-![NSFW - ODRZUCONO](https://placehold.co/600x400/800000/white?text=NSFW+DETECTED)
