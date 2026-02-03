@@ -3,7 +3,7 @@
 
 ![ZABLOKOWANO - ZEWNĘTRZNE TREŚCI](https://placehold.co/600x400/808080/ffffff?text=ZABLOKOWANO+ZEWNETRZNE+TRESCI)
 
-![NSFW - ODRZUCONO](https://placehold.co/600x400/800000/white?text=NSFW+DETECTED)
+![NSFW - ODRZUCONO](https://placehold.co/600x400/88147b/white?text=NSFW+DETECTED)
 
 
 ![asset_698204b9b5823.webp - OCZEKIWANIE NA WERYFIKACJĘ](https://placehold.co/600x400/800000/white?text=ODRZUCONO+PRZEZ+MODERACJE)
