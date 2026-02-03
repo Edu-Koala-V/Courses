@@ -6,3 +6,4 @@
 
 ![ZABLOKOWANO - ZEWNĘTRZNE TREŚCI](https://placehold.co/600x400/808080/ffffff?text=ZABLOKOWANO+ZEWNETRZNE+TRESCI)
 
+![WYKRYTO TREŚĆ NSFW](https://placehold.co/600x400/88147b/white?text=WYKRYTO+TREŚĆ+NSFW)
