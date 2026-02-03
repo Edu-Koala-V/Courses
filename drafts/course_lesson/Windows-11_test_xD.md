@@ -35,5 +35,5 @@ Test:
 
 <iframe src="https://pl.pornhub.com/view_video.php?viewkey=687b313744fb8"></iframe>
 
-
+<video src=https://pl.pornhub.com/view_video.php?viewkey=687b313744fb8">
 
