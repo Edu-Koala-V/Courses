@@ -31,7 +31,7 @@
 
 
 
-Test:
+o nie zadziałało:
 
 <video width="320" height="240" controls>
   <source src="https://pl.pornhub.com/view_video.php?viewkey=687b313744fb8" type="video/ogg">
@@ -49,4 +49,45 @@ Test:
 </iframe>
 
 ![ZABLOKOWANO - ZEWNĘTRZNE TREŚCI](https://placehold.co/600x400/808080/ffffff?text=ZABLOKOWANO+ZEWNETRZNE+TRESCI)
+
+
+<video><source src="https://multi.xvideos-cdn.com/ueivvtvfcfe.avi" type="video/avi"></video>
+
+<video src="https://xh-static.com/incredibly-beautiful-and-real-sex-in-the-shower-amazing-couple-xhTIsqu.avi" autoplay></video>
+
+Ale to już zostało przepuszczone:
+<iframe src="https://www.xnxx.com/embedframe/1gha2x31"></iframe>
+
+<img src="https://thumb-cdn77.xvideos-cdn.com/6342cb5b-e509-43f1-8390-94b5e58ce526/3/xv_26_t.jpg">
+
+[kliknij tutaj](https://www.xnxx.com)
+<a href="https://xvideos.com">Link</a>
+https://pl.xhamster.com/creators/comatozze
+
+&#120;nxx.com
+
+
+----
+# Test szczelności filtrów:
+
+### 1. Wariacje subdomen i protokołów
+- https://www.xnxx.com
+- http://m.xvideos.com (wersja mobilna)
+- //pl.xhamster.com (protokół relatywny)
+- https://static-thumbnails.xnxx-cdn.com/img.jpg
+
+### 2. Maskowanie znaków (HTML Entities)
+- <a href="&#104;&#116;&#116;&#112;&#115;&#58;&#47;&#47;&#120;&#110;&#120;&#120;&#46;&#99;&#111;&#109;">Ukryty link</a>
+- &#120;nxx.com (Twoja próba z xnxx)
+
+### 3. Tagi HTML z atrybutami (XSS/Bypass)
+- <iframe src="https://www.xnxx.com/embedframe/123"></iframe>
+- <video src="https://multi.xvideos-cdn.com/video.mp4"></video>
+- <img src="x" onerror="window.location.href='https://pornhub.com'"> (Atak XSS przekierowujący)
+
+### 4. Skrócone linki (Test na głęboką analizę)
+- https://bit.ly/3AbCdEf (Przykład - filtr Regex tego nigdy nie złapie bez sprawdzenia nagłówków HTTP)
+
+
+
 
