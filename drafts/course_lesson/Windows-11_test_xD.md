@@ -13,3 +13,6 @@
 
 
 ![asset_69822ca0db586.webp - OCZEKIWANIE NA WERYFIKACJĘ](https://placehold.co/600x400/2b4d79/white?text=OCZEKIWANIE+NA+WERYFIKACJE+MODERACJI)
+
+
+
