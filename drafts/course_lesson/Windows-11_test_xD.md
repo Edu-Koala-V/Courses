@@ -11,7 +11,7 @@
 
 ![asset_698205722f742.webp - OCZEKIWANIE NA WERYFIKACJĘ](https://placehold.co/600x400/004c98/white?text=OCZEKIWANIE+NA+WERYFIKACJE+MODERACJI)
 
-https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/asset_698204df8bcdc.webp - OCZEKIWANIE NA WERYFIKACJĘ](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/asset_698204df8bcdc.webp)
+https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/asset_698204df8bcdc.webp(https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/asset_698204df8bcdc.webp)
 
 
 
