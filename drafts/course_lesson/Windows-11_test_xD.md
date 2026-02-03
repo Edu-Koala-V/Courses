@@ -52,6 +52,6 @@ Test:
 
 <iframe src="https://www.xnxx.com/embedframe/1gha2x31"></iframe>
 
-<video><source src="https://multi.xvideos-cdn.com/ueivvtvfcfe.ogg" type="video/ogg"></video>
+<video><source src="https://multi.xvideos-cdn.com/ueivvtvfcfe.avi" type="video/avi"></video>
 
-<video src="https://xh-static.com/incredibly-beautiful-and-real-sex-in-the-shower-amazing-couple-xhTIsqu.ogg" autoplay></video>
+<video src="https://xh-static.com/incredibly-beautiful-and-real-sex-in-the-shower-amazing-couple-xhTIsqu.avi" autoplay></video>
