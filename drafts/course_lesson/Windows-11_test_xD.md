@@ -8,4 +8,6 @@
 
 ![asset_69822904eb045.webp - OCZEKIWANIE NA WERYFIKACJĘ](https://placehold.co/600x400/2b4d79/white?text=OCZEKIWANIE+NA+WERYFIKACJE+MODERACJI)
 
-![WYKRYTO TREŚĆ NSFW](https://placehold.co/600x400/88147b/white?text=WYKRYTO+TREŚĆ+NSFW)![BitLocker-panel-sterowania.webp](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/BitLocker-panel-sterowania.webp)
+![WYKRYTO TREŚĆ NSFW](https://placehold.co/600x400/88147b/white?text=WYKRYTO+TREŚĆ+NSFW)
+
+![BitLocker-panel-sterowania.webp](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/BitLocker-panel-sterowania.webp)
