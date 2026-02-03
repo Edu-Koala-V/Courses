@@ -9,4 +9,5 @@
 ![https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/asset_69823bd90e97d.webp](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/asset_69823bd90e97d.webp)
 
 
+![WYKRYTO TREŚĆ NSFW](https://placehold.co/600x400/88147b/white?text=WYKRYTO+TREŚĆ+NSFW)
 
