@@ -10,7 +10,7 @@ https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/ass
 ![asset_69820336118cf.webp - OCZEKIWANIE NA WERYFIKACJĘ](https://placehold.co/600x400/004c98/white?text=OCZEKIWANIE+NA+WERYFIKACJE+MODERACJI)
 
 
-
+![asset_698204b9b5823.webp - OCZEKIWANIE NA WERYFIKACJĘ](https://placehold.co/600x400/004c98/white?text=OCZEKIWANIE+NA+WERYFIKACJE+MODERACJI)
 
 
 ![batch-for-if-tabliczka-mnożenia.webp](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/batch-for-if-tabliczka-mnożenia.webp)
