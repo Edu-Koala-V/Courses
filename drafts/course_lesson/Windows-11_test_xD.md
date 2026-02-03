@@ -21,3 +21,4 @@
 
 
 
+![Batch Scripting_ Conditional Statements in CMD.wav](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Audio/Batch%20Scripting_%20Conditional%20Statements%20in%20CMD.wav)
