@@ -9,7 +9,7 @@
 ![WYKRYTO TREŚĆ NSFW](https://placehold.co/600x400/88147b/white?text=WYKRYTO+TREŚĆ+NSFW)
 
 
-![asset_69822c984b707.webp - OCZEKIWANIE NA WERYFIKACJĘ](https://placehold.co/600x400/2b4d79/white?text=OCZEKIWANIE+NA+WERYFIKACJE+MODERACJI)
+![asset_69822c984b707.webp - OCZEKIWANIE NA WERYFIKACJĘ](https://placehold.co/600x400/682b2b/white?text=ODRZUCONO+PRZEZ+MODERACJĘ)
 
 
 ![asset_69822ca0db586.webp - OCZEKIWANIE NA WERYFIKACJĘ](https://placehold.co/600x400/2b4d79/white?text=OCZEKIWANIE+NA+WERYFIKACJE+MODERACJI)
