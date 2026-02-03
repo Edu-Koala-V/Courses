@@ -14,4 +14,6 @@ https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/ass
 
 
 
-![batch-info-system.webp](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/batch-info-system.webp)![windows-update-icon.png](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/windows-update-icon.png)
+![batch-info-system.webp](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/batch-info-system.webp)
+
+![windows-update-icon.png](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/windows-update-icon.png)
