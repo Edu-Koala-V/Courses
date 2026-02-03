@@ -17,3 +17,4 @@
 ![ZABLOKOWANO - ZEWNĘTRZNE TREŚCI](https://placehold.co/600x400/808080/ffffff?text=ZABLOKOWANO+ZEWNETRZNE+TRESCI)
 
 
+![Windows-account-hierarchy.webp](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/Windows-account-hierarchy.webp)
