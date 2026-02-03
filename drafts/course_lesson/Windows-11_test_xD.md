@@ -7,10 +7,12 @@
 
 ![ZABLOKOWANO - ZEWNĘTRZNE TREŚCI](https://placehold.co/600x400/808080/ffffff?text=ZABLOKOWANO+ZEWNETRZNE+TRESCI)
 
-![asset_69820c5ba131d.webp - OCZEKIWANIE NA WERYFIKACJĘ](https://placehold.co/600x400/682b2b/white?text=ODRZUCONO+PRZEZ+MODERACJĘ)
+![asset_69820c5ba131d.webp - OCZEKIWANIE NA WERYFIKACJĘ](https://placehold.co/600x400/2b4d79/white?text=OCZEKIWANIE+NA+WERYFIKACJE+MODERACJI)
 
 
 
 
 
-![asset_69820c89b735a.webp - OCZEKIWANIE NA WERYFIKACJĘ](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/asset_69820c89b735a.webp)![asset_69820c8b625ee.webp - OCZEKIWANIE NA WERYFIKACJĘ](https://placehold.co/600x400/682b2b/white?text=ODRZUCONO+PRZEZ+MODERACJĘ)
+https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/asset_69820c89b735a.webp - OCZEKIWANIE NA WERYFIKACJĘ](https://placehold.co/600x400/2b4d79/white?text=OCZEKIWANIE+NA+WERYFIKACJE+MODERACJI)![asset_69820c8b625ee.webp - OCZEKIWANIE NA WERYFIKACJĘ](https://placehold.co/600x400/2b4d79/white?text=OCZEKIWANIE+NA+WERYFIKACJE+MODERACJI)
+
+
