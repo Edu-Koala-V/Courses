@@ -1,3 +1,3 @@
 # Ala ma kotki
 
-http://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkiJfLbdWh51FH1hZ7sK9xiid3RFsUEd6aPQ&s)
+![ZABLOKOWANO - ZEWNĘTRZNE TREŚCI](https://placehold.co/600x400/808080/ffffff?text=ZABLOKOWANO+ZEWNETRZNE+TRESCI)
