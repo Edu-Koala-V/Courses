@@ -6,4 +6,4 @@
 
 ![ZABLOKOWANO - TREŚĆ NSFW](https://placehold.co/600x400/800000/white?text=NSFW+TRESC+ZABLOKOWANA)
 
-![]
+![batch-for-f-dirs.webp](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/batch-for-f-dirs.webp)
