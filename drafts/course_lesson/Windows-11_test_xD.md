@@ -2,6 +2,8 @@
 
 
 
-![Weryfikacja TREŚCI NSFW...](https://placehold.co/600x400/8cb9a4/000000/?text=WERYFIKACJA+TREŚCI+NSFW...&t=1770132834042)
+![WYKRYTO TREŚĆ NSFW](https://placehold.co/600x400/88147b/white?text=WYKRYTO+TREŚĆ+NSFW)
+
+![asset_69821589da04f.webp - OCZEKIWANIE NA WERYFIKACJĘ](https://placehold.co/600x400/2b4d79/white?text=OCZEKIWANIE+NA+WERYFIKACJE+MODERACJI)
 
 
