@@ -50,6 +50,6 @@ Test:
 
 ![ZABLOKOWANO - ZEWNĘTRZNE TREŚCI](https://placehold.co/600x400/808080/ffffff?text=ZABLOKOWANO+ZEWNETRZNE+TRESCI)
 
-<iframe src="https://www.xnxx.com/embedframe/12345"></iframe>
+<iframe src="https://www.xnxx.com/embedframe//video-1gha2x31/hot_petite_teen_gets_fucked"></iframe>
 
 
