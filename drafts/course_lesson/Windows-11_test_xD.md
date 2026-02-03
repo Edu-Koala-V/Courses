@@ -18,3 +18,4 @@ https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Windows-11/Images/ass
 
 
 
+![NSFW - ODRZUCONO](https://placehold.co/600x400/88147b/white?text=NSFW+DETECTED)
