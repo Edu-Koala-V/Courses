@@ -1,7 +1,0 @@
-# Ala ma kotki
-
-
-
-
-
-
