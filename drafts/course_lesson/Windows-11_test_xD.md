@@ -65,3 +65,29 @@ Ale to już zostało przepuszczone:
 https://pl.xhamster.com/creators/comatozze
 
 &#120;nxx.com
+
+
+----
+# Test szczelności filtrów:
+
+### 1. Wariacje subdomen i protokołów
+- https://www.xnxx.com
+- http://m.xvideos.com (wersja mobilna)
+- //pl.xhamster.com (protokół relatywny)
+- https://static-thumbnails.xnxx-cdn.com/img.jpg
+
+### 2. Maskowanie znaków (HTML Entities)
+- <a href="&#104;&#116;&#116;&#112;&#115;&#58;&#47;&#47;&#120;&#110;&#120;&#120;&#46;&#99;&#111;&#109;">Ukryty link</a>
+- &#120;nxx.com (Twoja próba z xnxx)
+
+### 3. Tagi HTML z atrybutami (XSS/Bypass)
+- <iframe src="https://www.xnxx.com/embedframe/123"></iframe>
+- <video src="https://multi.xvideos-cdn.com/video.mp4"></video>
+- <img src="x" onerror="window.location.href='https://pornhub.com'"> (Atak XSS przekierowujący)
+
+### 4. Skrócone linki (Test na głęboką analizę)
+- https://bit.ly/3AbCdEf (Przykład - filtr Regex tego nigdy nie złapie bez sprawdzenia nagłówków HTTP)
+
+
+
+
