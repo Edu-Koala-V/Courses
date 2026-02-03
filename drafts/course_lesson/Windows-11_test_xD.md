@@ -53,3 +53,5 @@ Test:
 <iframe src="https://www.xnxx.com/embedframe/1gha2x31"></iframe>
 
 <video><source src="https://multi.xvideos-cdn.com/video.mp4" type="video/mp4"></video>
+
+<video src="https://xh-static.com/video.mp4" autoplay></video>
