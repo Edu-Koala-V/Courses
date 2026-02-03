@@ -3,7 +3,7 @@
 
 ![ZABLOKOWANO - ZEWNĘTRZNE TREŚCI](https://placehold.co/600x400/808080/ffffff?text=ZABLOKOWANO+ZEWNETRZNE+TRESCI)
 
-![NSFW - ODRZUCONO](https://placehold.co/600x400/88147b/white?text=wykryto+treść+NSFW)
+![NSFW - ODRZUCONO](https://placehold.co/600x400/88147b/white?text=WYKRYTO+TREŚĆ+NSFW)
 
 
 ![DRZUCONO PRZEZ MODERACJĘ](https://placehold.co/600x400/682b2b/white?text=ODRZUCONO+PRZEZ+MODERACJĘ)
