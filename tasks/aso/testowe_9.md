@@ -1,1 +1,0 @@
-# Testowe zadanie Ali

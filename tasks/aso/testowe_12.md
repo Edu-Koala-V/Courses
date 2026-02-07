@@ -1,1 +1,0 @@
-![images.jpg](/public/temp/uploads/bom4iffk4t9i8v6g9u4nv6qq2t/img_69711ed3a0ed6.webp)
