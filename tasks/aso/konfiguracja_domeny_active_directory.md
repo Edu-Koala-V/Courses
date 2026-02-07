@@ -1,7 +1,9 @@
 # Windows Serwer - Konfiguracja DHCP i rezerwacja adresów
 
+![asset_6984c6a9ce494.webp](/public/temp_assets/asset_6984c6a9ce494.webp)
 
-![10fa7a53a58985857311bbe9cb85ac0d.png](/public/temp_assets/asset_6984cfe0a76ee.webp)
+
+![7c0174dd64f8d17863dc1b7fd3379554.png](/public/temp_assets/asset_69875ade29993.webp)
 ## Wymagania wstępne
 
 - Maszyna virtualna z systemem _**Windows Server 2025**_.
