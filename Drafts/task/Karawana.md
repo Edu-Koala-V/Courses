@@ -6,3 +6,5 @@
 
 
 
+![506082205.jpg](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Tasks/aso/Images/asset_69888f3b68a44.webp)
+
