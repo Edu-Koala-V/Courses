@@ -1,0 +1,1 @@
+![506082205.jpg](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Tasks/so/Images/asset_69888b9de42df.webp)
