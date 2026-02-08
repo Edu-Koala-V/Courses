@@ -1,9 +1,7 @@
 # Testy Koali
 
-![3ad69f1c2d57e841ab5d21ed079b6e66.png](/public/temp_assets/asset_69886162df4b2.webp)
-
-<audio controls src="/public/temp_assets/asset_6988618105548.mp3"></audio>
+![Konosuba-Gods-Blessing-on-This-Wonderful-World-scaled.webp](/public/temp_assets/asset_698863e4e0cba.webp)
 
 Elo
-
+<audio controls src="/public/temp_assets/asset_698863f1c908c.mp3"></audio>
 xD
