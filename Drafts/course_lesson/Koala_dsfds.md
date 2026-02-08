@@ -1,7 +1,7 @@
 # elo
 
 
-![Gemini_Generated_Image_mwww4zmwww4zmwww.png](/public/temp_assets/asset_698890f99d916.webp)
+![asset_698890f99d916.webp - ODRZUCONO PRZEZ MODERACJĘ](https://placehold.co/600x400/682b2b/white?text=ODRZUCONO+PRZEZ+MODERACJĘ)
 
 
-<audio controls src="/public/temp_assets/asset_69889112f023b.mp3"></audio>
+<audio controls src="https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Courses/Koala/Audio/asset_69889112f023b.mp3"></audio>
