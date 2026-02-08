@@ -1,3 +1,3 @@
 # Koala
 
-![4.jpg](/public/temp_assets/asset_698867e7eae18.webp)
+![4.jpg](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Courses/Koala/Images/asset_698867e7eae18.webp)
