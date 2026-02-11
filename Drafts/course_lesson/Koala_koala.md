@@ -7,5 +7,3 @@
 <audio controls src="https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Courses/Koala/Audio/asset_6988713cabdf5.mp3"></audio>
 
 
-![images.jpg](https://placehold.co/600x400/88147b/white?text=WYKRYTO+TREŚĆ+NSFW)
-![images.jpg](https://placehold.co/600x400/88147b/white?text=WYKRYTO+TREŚĆ+NSFW)
