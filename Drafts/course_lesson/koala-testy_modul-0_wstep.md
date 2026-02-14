@@ -10,6 +10,6 @@
 
 ![3ad69f1c2d57e841ab5d21ed079b6e66.png](https://placehold.co/600x400/88147b/white?text=WYKRYTO+TREŚĆ+NSFW)
 
-![obraz.png](/public/temp_assets/asset_699058b826031.webp)
+
 
 
