@@ -1,6 +1,0 @@
-# Nowe zadanie
-
-<audio controls src="/public/temp_assets/asset_69887f0e2c474.mp3"></audio>
-
-![Diagram bez tytułu.drawio(1).svg](/public/temp_assets/asset_69887f21a143a.webp)
-

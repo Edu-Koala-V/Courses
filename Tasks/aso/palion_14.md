@@ -1,5 +1,0 @@
-![images.jpg](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Tasks/aso/Images/asset_69888d8e10965.webp)![asset_698889563b070.webp](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Tasks/aso/Images/asset_698889563b070.webp)![Konosuba-Gods-Blessing-on-This-Wonderful-World-scaled.webp](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Tasks/aso/Images/asset_69888da9676b5.webp)
-
-
-
-<audio controls src="https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Tasks/aso/Audio/asset_69888de7f1701.mp3"></audio>
