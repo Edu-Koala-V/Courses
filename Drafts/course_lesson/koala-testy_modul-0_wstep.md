@@ -1,6 +1,7 @@
 # Wstęp
 
-> [!NOTE]\n> To jest notatka.
+> [!NOTE]
+> To jest notatka.
 
 
 
