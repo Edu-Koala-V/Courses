@@ -4,4 +4,4 @@
 
 ![ZABLOKOWANO - ZEWNĘTRZNE TREŚCI](https://placehold.co/600x400/808080/ffffff?text=ZABLOKOWANO+-+TREŚĆ+ZEWNĘTRZNA)
 
-![Weryfikacja TREŚCI...](https://placehold.co/600x400/ffa500/000000/?text=OCZEKIWANIE+NA+WERYFIKACJĘ...&t=1771067285415)
+![obraz.png](/public/temp_assets/asset_699057b039ce1.webp)
