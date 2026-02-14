@@ -1,6 +1,6 @@
 # Wstęp
 
-> [!NOTE]
+> [!WARNING]
 > To jest notatka.
 
 
