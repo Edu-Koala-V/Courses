@@ -12,3 +12,7 @@
 
 ![obraz.png](/public/temp_assets/asset_69905aaa8cb75.webp)
 
+![https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Courses/koala-testy/Images/asset_699057ce80a8f.webp](https://raw.githubusercontent.com/Edu-Koala-V/Courses/main/Courses/koala-testy/Images/asset_699057ce80a8f.webp)
+
+
+
