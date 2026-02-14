@@ -1,7 +1,8 @@
 # Wstęp
 
 > [!WARNING]
-> To jest notatka.
+> To jest notatka. __ostrzegawczy__
+
 
 <div data-hint="warning">
 
