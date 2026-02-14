@@ -6,3 +6,4 @@
 
 ![obraz.png](/public/temp_assets/asset_699057b039ce1.webp)
 
+![506082205.jpg](/public/temp_assets/asset_699057ce80a8f.webp)
