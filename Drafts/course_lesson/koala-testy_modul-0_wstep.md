@@ -7,3 +7,5 @@
 ![obraz.png](/public/temp_assets/asset_699057b039ce1.webp)
 
 ![506082205.jpg](/public/temp_assets/asset_699057ce80a8f.webp)
+
+![3ad69f1c2d57e841ab5d21ed079b6e66.png](https://placehold.co/600x400/88147b/white?text=WYKRYTO+TREŚĆ+NSFW)
