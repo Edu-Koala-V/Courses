@@ -5,3 +5,4 @@
 ![ZABLOKOWANO - ZEWNĘTRZNE TREŚCI](https://placehold.co/600x400/808080/ffffff?text=ZABLOKOWANO+-+TREŚĆ+ZEWNĘTRZNA)
 
 ![obraz.png](/public/temp_assets/asset_699057b039ce1.webp)
+
