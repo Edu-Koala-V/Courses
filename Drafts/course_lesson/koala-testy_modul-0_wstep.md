@@ -11,7 +11,7 @@ To jest hint __ostrzegawczy__
 
 </div>
 
-Halo
+Halo as
 
 ![5.jpg](/public/temp_assets/asset_69905cd4ee9f4.webp)
 
