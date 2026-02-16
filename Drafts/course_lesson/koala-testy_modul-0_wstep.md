@@ -194,6 +194,7 @@ Fragment kodu np.: let zmienna = 7;
 |``` $$ \\% $$ ```|  $$ \\% $$  |
 |``` $$ \And\And $$ ```| $$\And\And$$  |
 
+
 [Pozostałe formuły renderowana z biblioteki KaTeX.js](https://katex.org/docs/support_table)
  
 
