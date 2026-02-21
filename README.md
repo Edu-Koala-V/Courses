@@ -22,3 +22,10 @@ sequenceDiagram
     Note right of Bob: Bob thinks...
     Bob-->>Alice: I am good, thanks!
 ```
+
+# Nowszy wersja testowa:
+
+```mermaid
+graph TD
+    A[Start] --> B[Works]
+```
