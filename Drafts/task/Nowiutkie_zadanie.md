@@ -1,1 +1,0 @@
-# Nowiutkie zadanie
