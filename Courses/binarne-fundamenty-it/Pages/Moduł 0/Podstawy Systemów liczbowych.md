@@ -25,6 +25,7 @@ To zależy od tego, jak zaprojektowano sprzęt. W większości przypadków nast�
   <data-quiz>
     <question>
 Mamy fizyczny licznik (jak w starym samochodzie), który ma TYLKO $6$ pól na cyfry. Obecny stan to $999999$. Dodajesz $1$. Jaki będzie FIZYCZNY obraz tego licznika po operacji?
+      
 ![Tarcza zegara samochodowego]([https://raw.githubusercontent.com/Edu-Koala-V/Courses/refs/heads/main/Courses/binarne-fundamenty-it/Images/tarcza_zegarqa_samochodowego.png)
     </question>
     <options>
@@ -78,6 +79,6 @@ Jaka będzie następna liczba binarna po `111`? (Pamiętaj o mechanizmie przenie
 Na koniec chcę abyś popatrzył na poniższe dłonie. Na lewym obrazku palce liczymy normalnie, a na prawym *indeksujemy* je od zera (`0`). Wciąż mamy $10$ palców, ale w informatyce i zaawansowanej matematyce liczenie od zera to standard. 
 Kiedyś w pełni zrozumiesz jak to bardzo ułatwia życię i pracę 😎.
 
-![Palce od 1 do 10 i od 0 do 9](https://raw.githubusercontent.com/Edu-Koala-V/Courses/refs/heads/main/Courses/binarne-fundamenty-it/Images/palce.png))
+![Palce od 1 do 10 i od 0 do 9](https://raw.githubusercontent.com/Edu-Koala-V/Courses/refs/heads/main/Courses/binarne-fundamenty-it/Images/palce.png)
 
 ---
