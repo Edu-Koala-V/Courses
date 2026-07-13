@@ -1,1 +1,5 @@
 # Nowiutkie zadanie
+
+Kiedyś powiedziałem że jak bedzie trzeba to zrobię to co będzie trzeba.
+Wiesz co teraz jest ta pora że trzeba.
+Mamy pare ciał do wyniesienia.
